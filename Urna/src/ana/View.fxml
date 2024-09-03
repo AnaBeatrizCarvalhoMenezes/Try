@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<AnchorPane prefHeight="960.0" prefWidth="1700.0" style="-fx-background-color: #ffffff;" xmlns="http://javafx.com/javafx/22" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Pane layoutX="1052.0" layoutY="56.1" prefHeight="128.0" prefWidth="545.0" style="-fx-border-radius: 8; -fx-border-color: #000000; -fx-background-color: #ffffff;" />
+      <Pane layoutX="1052.0" layoutY="208.0" prefHeight="597.0" prefWidth="545.0" style="-fx-border-radius: 8; -fx-background-color: #000000;">
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
+         <children>
+            <Button layoutX="101.5" layoutY="56.0" mnemonicParsing="false" prefHeight="71.3" prefWidth="91.1" text="Button" />
+            <Button layoutX="227.0" layoutY="56.0" mnemonicParsing="false" prefHeight="71.3" prefWidth="91.1" text="Button" />
+            <Button layoutX="352.6" layoutY="56.0" mnemonicParsing="false" prefHeight="71.3" prefWidth="91.1" text="Button" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
